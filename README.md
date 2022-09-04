@@ -1,4 +1,4 @@
 # FLAPPY NET
 
-### Flappy Learns to Fly
+### Computer Learns to Fly
 
